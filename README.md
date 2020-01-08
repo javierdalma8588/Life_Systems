@@ -1,5 +1,5 @@
 # Life_Systems
-Life System developed on Unity 2017 using C#
+Life System developed on Unity 2017 using C# by Javier Dalma.
 
 This System works like the one on Candy Crush it gives you a certain amount of lifes and you get a life after a certain amount of time.
 
