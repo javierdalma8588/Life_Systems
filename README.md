@@ -9,4 +9,4 @@ LivesManager.cs: here we get all the values that are stored on the LMConfig.cs. 
 
 LifesControl.cs: and finally this Script handles the function to give the player 1 life or a certain amount of lifes, loose a life, give unlimitad lifes for a certain amount of time, get an extra life slot. And allows the player to play if he has at least 1 life.
 
-The code has coments to understand every function
+More comments about the code and how it works are on every .cs file.
